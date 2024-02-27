@@ -1,11 +1,3 @@
-// const incrementFunction = () => {
-//     console.log(`increment logged!`)
-// }
-
-// const decrementFunction = () => {
-//     console.log(`decrement logged!`)
-// }
-
 const incrementFunction = () => {
     console.log("increment logged!")
     const numberElement = document.getElementById("counter-number");
